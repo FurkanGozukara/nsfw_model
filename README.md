@@ -8,6 +8,7 @@
 
 use model : https://s3.amazonaws.com/ir_public/ai/nsfw_models/nsfw.299x299.h5
 https://huggingface.co/MonsterMMORPG/SECourses/resolve/main/nsfw.299x299.h5
+use b.py file
 
 ![NSFW Detector logo](https://github.com/GantMan/nsfw_model/blob/master/_art/nsfw_detection.png?raw=true)
 
